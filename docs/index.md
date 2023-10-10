@@ -1,9 +1,7 @@
 # Home
 ## Setting
-### Locations
+### Main Locations
 + [[Ondra]]
-	+ [[Miss Lucy's Home]]
-	+ [[Fenny's Home]]
 
 ## Players and Characters
 + [[Evan|Evan]] - Other Alex
