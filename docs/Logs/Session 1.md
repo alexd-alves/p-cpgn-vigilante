@@ -1,0 +1,13 @@
+*07/10/2023*
+
+The [[index#Players and Characters|party]] begins in a meeting room of their hero agency. They have not met before, and are introduced to their first mission by [[Isha]], which is to find [[Miss Lucy]]'s 24 cats.
+
+After introductions, the party visits [[Miss Lucy's Home]] to find out more about the cats and the situation, and learns that Miss Lucy had been having trouble with her neighbour [[Fenny]], who lives [[Fenny's Home|across]] from her.
+
+[[Gal Glitterbomb|Gal]] consumes mushroom tea, which is hallucinogenic. Miss Lucy and her neighbours are not able to provide any information or description of Fenny, who is not home. The party breaks in by having [[Nula]] as an owl descend into the chimney and open the front door.
+
+The party does not find anything interesting other than a large amount of cat-like fur which does not belong to Miss Lucy's cats. [[Meldohr Battlebraid|Meldohr]] and [[Nula]] pull down the massive portrait of [[Beep Boop]] in the living room, revealing the entrance to a tunnel containing multiple tripwire traps. Within, the party can hear the purring and meowing of a "demon cat".
+
+At the end of the tunnel there is a large metal door and a biometric device. [[Gal Glitterbomb|Gal]] pours leftover tea on the wires to short-circuit them and open the door. Within, the party finds a large room, containing a hospital bed surrounded by multiple containers of liquid which are pumping into a man who looks to be in a vegetative state.
+
+Here, the party is attacked by 4 undead [[Burning Cats]], possibly Miss Lucy's cats. An alarm is triggered, warning of "Projected Wild Shape", and while the party is able to kill 2 of the cats, the session ends when an abomination composed of multiple merged cats shows up, the "demon cat".
