@@ -1,6 +1,5 @@
 # Home
-## Setting
-### Main Locations
+### Locations
 + [[Ondra]]
 
 ## Players and Characters
