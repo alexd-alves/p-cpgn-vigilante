@@ -1,6 +1,5 @@
 # Home
-> [!warning] Meta-gaming
-> ==Highlighted== information is not known to Meldohr in game.
+>==Highlighted== information is not known to Meldohr in game.
 ## Important Reminders
 + 
 
