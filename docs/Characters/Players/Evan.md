@@ -1,3 +1,3 @@
-*Race:* Variant Human
+*Race:* [Variant Human](http://dnd5e.wikidot.com/human)
 
-*Class:* Ranger 5, Fighter 2, Rogue 3
+*Class:* [Ranger](http://dnd5e.wikidot.com/ranger) 5, [Fighter](http://dnd5e.wikidot.com/fighter) 2, [Rogue](http://dnd5e.wikidot.com/rogue) 3

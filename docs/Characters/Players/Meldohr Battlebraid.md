@@ -1,3 +1,3 @@
-*Race:* Mountain Dwarf
+*Race:* [Mountain Dwarf](http://dnd5e.wikidot.com/dwarf)
 
-*Class:* Fighter 2, Cleric 8
+*Class:* [Fighter](http://dnd5e.wikidot.com/fighter) 2, [Cleric](http://dnd5e.wikidot.com/cleric) 8

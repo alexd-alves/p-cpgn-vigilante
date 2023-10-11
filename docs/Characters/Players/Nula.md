@@ -1,6 +1,6 @@
-*Race:* Astral Elf
+*Race:* [Astral Elf](http://dnd5e.wikidot.com/lineage:elf)
 
-*Class:* Druid 10
+*Class:* [Druid](http://dnd5e.wikidot.com/druid) 10
 
 ## Trivia
 + Is more familiar with animals than with plants.

@@ -14,3 +14,7 @@ There are 3 gods worshipped in Ondra:
 + *[[Allia]]:* The Mother, the Creator.
 
 + *[[Kast]]:* The Son, the Trickster.
+
+## Locations
++ [[Miss Lucy's Home]]
++ [[Fenny's Home]]
