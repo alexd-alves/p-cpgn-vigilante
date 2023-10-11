@@ -1,4 +1,8 @@
-Potentially from [Jon Brazer](https://jonbrazer.com/2018/04/04/5e-flame-cat/):
+Initially found within the tunnel in [[Fenny's Home]]. They look to be reanimated flaming cats.
+They cause damage when within melee range.
+
+## Meta Stuff
+Potentially based on the Flame Cat from [Jon Brazer](https://jonbrazer.com/2018/04/04/5e-flame-cat/):
 
 ## Flame Cat
 

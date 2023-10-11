@@ -1,5 +1,10 @@
 # Home
-### Locations
+> [!warning] Meta-gaming
+> ==Highlighted== information is not known to Meldohr in game.
+## Important Reminders
++ 
+
+## Locations
 + [[Ondra]]
 
 ## Players and Characters
