@@ -1,3 +1,9 @@
 *Race:* [Rock Gnome](http://dnd5e.wikidot.com/gnome)
 
 *Class:* [Sorcerer](http://dnd5e.wikidot.com/sorcerer) 9, [Bard](http://dnd5e.wikidot.com/bard) 1
+
+Character Sheet [here](https://www.dndbeyond.com/characters/109837133).
+
+## Trivia
++ Shares a suspicion of witches with [[Meldohr Battlebraid|Meldohr]].
++ Carries a stack of business cards.
