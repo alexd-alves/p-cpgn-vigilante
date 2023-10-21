@@ -6,3 +6,4 @@ Character Sheet [here](https://www.dndbeyond.com/characters/109255358).
 
 ## Trivia
 + Is more familiar with animals than with plants.
++ Can conjure a Giant Octopus.

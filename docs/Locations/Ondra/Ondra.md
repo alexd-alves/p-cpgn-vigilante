@@ -15,6 +15,20 @@ There are 3 gods worshipped in Ondra:
 
 + *[[Kast]]:* The Son, the Trickster.
 
+### Superheroes
+While multiple hero agencies operate within Ondra, the most known "Superheroes" (by power) are:
++ Violet, a purple goth with telekinetic powers.
++ Gurb, the team's muscle.
++ [[Fengar]], a Druid who is known to Wild Shape into a Saber-Toothed Tiger.
++ [[Benny]], a genius Artificer.
++ [[Beep Boop]] and his six sentries.
++ T, a changeling.
++ Pix, a small pixie, known to ride pigeon swarms.
+
 ## Locations
-+ [[Miss Lucy's Home]]
-+ [[Fenny's Home]]
++ Barouk District: this district has a large river running within, along which most of the merchants have set up their trades.
+	+ [[Miss Lucy's Home]]
+	+ [[Fenny's Home]]
+	+ The Blue Bucket (pub) - run by Paul
+	+ The Dirty Tap (pub)
+	+ The Bloody Mammoth (pub)

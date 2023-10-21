@@ -1,19 +1,22 @@
 # Home
->==Highlighted== information is not known to Meldohr in game.
+>==Highlighted== information or sections marked as Meta are not known to Meldohr in game.
 ## Important Reminders
-+ 
++ Must inform [[Miss Lucy]] of the fate of her cats.
++ How did [[Beep Boop]] know who we are? What is up with the Mk 7 thing? Is he evil now?? Might be able to get in touch with the other [[Ondra#Superheroes|Superheroes]] and his [[Benny|maker]].
++ Check on [[Issha]], find out who his mother is.
 
-## Locations
+## Major Locations
 + [[Ondra]]
 
-## Players and Characters
-+ [[Evan|Evan]] - Other Alex
-+ [[Falsair]] - ?
-+ [[Gal Glitterbomb]] - ?
-+ [[Marius]] - Mo
-+ [[Meldohr Battlebraid|Meldohr "Battlebraid"]] - Alex
-+ [[Nula]] - Lucia
+## Players
++ [[Evan|Evan]]
++ [[Falsair]]
++ [[Gal Glitterbomb]]
++ [[Marius]]
++ [[Meldohr Battlebraid|Meldohr "Battlebraid"]]
++ [[Nula]]
 
 ## Logs
 + [[Session 1]] - 07/10/2023
++ [[Session 2]] - 21/10/2023
 

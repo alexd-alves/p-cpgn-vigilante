@@ -6,4 +6,6 @@ Character Sheet [here](https://www.dndbeyond.com/characters/109837133).
 
 ## Trivia
 + Shares a suspicion of witches with [[Meldohr Battlebraid|Meldohr]].
-+ Carries a stack of business cards.
++ Carries a stack of business cards that she hands out to everyone she meets.
++ Glitterbomb Industries?
++ [[Falsair]] is her great-great-great-uncle. She is aware of his past but did not work with him.
