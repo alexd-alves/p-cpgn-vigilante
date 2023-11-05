@@ -30,6 +30,8 @@ While multiple hero agencies operate within Ondra, the most known "Superheroes" 
 + Barouk District: this district has a large river running within, along which most of the merchants have set up their trades.
 	+ [[Miss Lucy's Home]]
 	+ [[Fenny's Home]]
-	+ The Blue Bucket (pub) - run by Paul
-	+ The Dirty Tap (pub)
-	+ The Bloody Mammoth (pub)
+	+ [[Barouk's Works]] - HQ
+	+ [[Justice]] - Superhero HQ
+	+ The Blue Bucket -pub ran by [[Paul (Bartender)|Paul]] and his [[Paul (Bartender)#Relationships|brother]]
+	+ The Dirty Gnat - pub
+	+ The Bloody Mammoth  - pub

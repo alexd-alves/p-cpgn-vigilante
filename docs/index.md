@@ -3,7 +3,8 @@
 ## Important Reminders
 + Must inform [[Miss Lucy]] of the fate of her cats.
 + How did [[Beep Boop]] know who we are? What is up with the Mk 7 thing? Is he evil now?? Might be able to get in touch with the other [[Ondra#Superheroes|Superheroes]] and his [[Benny|maker]].
-+ Check on [[Issha]], find out who his mother is.
++ Find out what the device in [[Issha]]'s eye is and what was done to him.
++ Sort out [[Jeff Fishkin|Jeff]].
 
 ## Major Locations
 + [[Ondra]]
@@ -19,4 +20,5 @@
 ## Logs
 + [[Session 1]] - 07/10/2023
 + [[Session 2]] - 21/10/2023
++ [[Session 3]] - 04/11/2023
 

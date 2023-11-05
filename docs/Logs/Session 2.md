@@ -36,9 +36,9 @@ A few moments later[[Marius]] tries to go speak to them, but the leader grabs hi
 
 The party then joins [[Evan]] and [[Beep Boop]] in the meeting room. [[Gal Glitterbomb|Gal]] offers her hand but he just stares. He tells the party that they have destroyed a valuable resource, and that they will now stay around to do dirty work for him and stay out of his way or be destroyed. The party is then ordered to leave and send [[Issha]] in. During this conversation, [[Nula]] and [[Evan]] notice an engraving on [[Beep Boop]]'s neck that reads "Mk 7" and later reveal this to the rest of the party.
 
-[[Falsair]] shares his knowledge of the [[Superheroes]], noting that [[Fengar]] is known to be more powerful than [[Beep Boop]], and that [[Beep Boop]] has six copies designated Mk 1-6, but not Mk 7.
+[[Falsair]] shares his knowledge of the [[Ondra#Superheroes|Superheroes]], noting that [[Fengar]] is known to be more powerful than [[Beep Boop]], and that [[Beep Boop]] has six copies designated Mk 1-6, but not Mk 7.
 
-The party then decides to find a place to rest and visit the pubs in [[Ondra#Locations|Barouk District]] near the agency. They visit a pub called [[Ondra#Locations|The Blue Bucket]], run by an old man named Paul. [[Evan]] and [[Gal Glitterbomb|Gal]] make an arrangement with Paul to host a pub quiz in exchange for free drinks for the party, as well as a room for [[Gal Glitterbomb|Gal]] to use as a dressing room. 
+The party then decides to find a place to rest and visit the pubs in [[Ondra#Locations|Barouk District]] near the agency. They visit a pub called [[Ondra#Locations|The Blue Bucket]], run by an old man named [[Paul (Bartender)|Paul]]. [[Evan]] and [[Gal Glitterbomb|Gal]] make an arrangement with Paul to host a pub quiz in exchange for free drinks for the party, as well as a room for [[Gal Glitterbomb|Gal]] to use as a dressing room. 
 
 Everyone gets a free drink as a sample and they sit down to drink underneath a taxidermized octopus while [[Gal Glitterbomb|Gal]] goes upstairs to take a bath.
 
