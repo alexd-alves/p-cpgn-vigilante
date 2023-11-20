@@ -66,7 +66,7 @@ Name Team wins the Pub Quiz after a tie breaker with Meldohr on the Dance Floor 
 
 ==[[Evan]] notices one of the robins following him, and decides to return to the [[Ondra#Locations|Blue Bucket]]. He finds the window that [[Meldohr Battlebraid|Meldohr]] was selling drinks out of unlocked, and goes upstairs to sleep in one of the rooms.==
 
-==[[Marius]], not seeing anyone watching him, decides to visit his daughter [[Marius#Relationships|Eudora]], who is staying with his husband's parents, [[Marius#Relationships|Liluth]] and [[Marius#Relationships|Galum]]. After finding them all sleeping, he returns to his own home. In the morning, still not seeing anything out of the normal, he visits [[Marius#Relationships|Eudora]] again, before heading to the [[Ondra#Locations||Blue Bucket]].==
+==[[Marius]], not seeing anyone watching him, decides to visit his daughter [[Marius#Relationships|Eudora]], who is staying with his husband's parents, [[Marius#Relationships|Liluth]] and [[Marius#Relationships|Galan]]. After finding them all sleeping, he returns to his own home. In the morning, still not seeing anything out of the normal, he visits [[Marius#Relationships|Eudora]] again, before heading to the [[Ondra#Locations|Blue Bucket]].==
 
 ==[[Nula]], concerned about [[Nula#Relationships|Aric]], searches their home in search for anything strange, but finds nothing. She tries to use [Scrying](https://www.dndbeyond.com/spells/scrying)to check on him. She goes to bed but is kept up by thoughts of her friend. In the morning, she tries [Scrying](https://www.dndbeyond.com/spells/scrying) again, but it fails.==
 
@@ -86,7 +86,7 @@ Once at [[Barouk's Works]], the [[index#Players|Party]] heads to reception, wher
 
 [[Issha]] gives the team a new mission: they must escort [[Jeff Fishkin]] home from the [[Barouk's Works]] building. He is desperate and believes that he is being followed home. He is also receiving death threats. He works at a "top secret" location, developing magical items.
 
-[[Issha]] also mentions his mother, [[Ensari]], and his siblings: [[Issha#Relationships|Ahssi]] and [[Issha#Relationships|Haiche]]. He also tries to grill [[Meldohr Battlebraid|Meldohr]], but [[Gal Glitterbomb|Gal]] distracts him by asking what color underwear he is wearing.
+[[Issha]] also mentions his mother, [[Ensari]], and his siblings: [[Issha#Relationships|Ahssi]] and [[Issha#Relationships|Haiche]]. He also tries to grill [[Meldohr Battlebraid|Meldohr]], but [[Gal Glitterbomb|Gal]] distracts him by asking what kind of cologne he is wearing.
 
 [[Nula]] asks [[Issha]] about obtaining information on other teams that work at the agency, but he says it is very confidential. The [[index#Players|Party]] decides to speak to [[Barouk's Works|Karen]] instead, who has an office down the hall.
 

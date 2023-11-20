@@ -6,3 +6,5 @@ It is run by [[Ensari]], and employs:
  * Jenny, from Finance.
  * John, the Janitor.
  * [[Issha]], receptionist and [[Ensari]]'s son.
+
+The founding team was composed of [[Ensari]], [[Marius]]'s husband [[Marius#Thello Family|Aeris]], and [[Nula]]'s close friend [[Nula#Relationships|Aric]].

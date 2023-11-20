@@ -3,11 +3,9 @@
 *Class:* [Druid](http://dnd5e.wikidot.com/druid) 10
 
 Character Sheet [here](https://www.dndbeyond.com/characters/109255358).
-
-## Relationships
-
-* Ryland - Brother (**†**)
-* Aric - Close Friend
 ## Trivia
 + Is more familiar with animals than with plants.
 + Can conjure a Giant Octopus.
+## Relationships
+* Ryland - Brother (**†**)
+* Aric - Close Friend
