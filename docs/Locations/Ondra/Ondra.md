@@ -32,4 +32,4 @@ While multiple hero agencies operate within Ondra, the most known "Superheroes" 
 	+ The Blue Bucket -pub ran by [[Paul (Bartender)|Paul]] and his [[Paul (Bartender)#Relationships|brother]]
 	+ The Dirty Gnat - pub
 	+ The Bloody Mammoth  - pub
-	+ [[Jeff Fishkin|Jeff]]'s lab
+	+ [[Jeff's Lab]]

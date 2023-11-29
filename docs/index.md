@@ -13,9 +13,9 @@
 ## Players
 + [[Evan|Evan]]
 + [[Falsair]]
-+ [[Gal Glitterbomb]]
++ [[Gal]]
 + [[Marius]]
-+ [[Meldohr Battlebraid|Meldohr "Battlebraid"]]
++ [[Meldohr|Meldohr "Battlebraid"]]
 + [[Nula]]
 ## Logs
 + [[Session 1]] - 07/10/2023
