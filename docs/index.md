@@ -15,7 +15,7 @@
 + [[Falsair]]
 + [[Gal]]
 + [[Marius]]
-+ [[Meldohr|Meldohr "Battlebraid"]]
++ [[Meldohr]]
 + [[Nula]]
 ## Logs
 + [[Session 1]] - 07/10/2023

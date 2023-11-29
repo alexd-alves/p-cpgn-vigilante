@@ -1,4 +1,4 @@
-*Full Name:* Meldohr Battlebraid
+*Full Name:* Meldohr "Battlebraid"
 
 *Race:* [Mountain Dwarf](http://dnd5e.wikidot.com/dwarf)
 
