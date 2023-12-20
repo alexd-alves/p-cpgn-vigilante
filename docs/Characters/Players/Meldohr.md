@@ -1,3 +1,5 @@
+**Killed in [[Session 6]] during the [[Session 6#[Do You Think You're Better Off Alone](https //www.youtube.com/watch?v=Lgs9QUtWc3M)|bot fight]].
+
 *Full Name:* Meldohr "Battlebraid"
 
 *Race:* [Mountain Dwarf](http://dnd5e.wikidot.com/dwarf)

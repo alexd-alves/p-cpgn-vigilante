@@ -29,7 +29,8 @@ While multiple hero agencies operate within Ondra, the most known "Superheroes" 
 	+ [[Fenny's Home]]
 	+ [[Barouk's Works]] - HQ
 	+ [[Justice]] - Superhero HQ
-	+ The Blue Bucket -pub ran by [[Paul (Bartender)|Paul]] and his [[Paul (Bartender)#Relationships|brother]]
+	+ [[The Blue Bucket]] - pub ran by [[Paul (Bartender)|Paul]] and his [[Paul (Bartender)#Relationships|brother]]
 	+ The Dirty Gnat - pub
 	+ The Bloody Mammoth  - pub
 	+ [[Jeff's Lab]]
+	+ Kevin's Office

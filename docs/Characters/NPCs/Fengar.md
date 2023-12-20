@@ -1,4 +1,4 @@
-Suspected by the [[index#Players|party]] to be the same person as [[Fenny]].
+Suspected to be the same person as [[Fenny]].
 
 Fengar was one of [[Ondra]]'s most known [[Ondra#Superheroes|Superheroes]]. He was a Druid and could Wild Shape into a Saber-Toothed Tiger.
 

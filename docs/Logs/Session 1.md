@@ -2,9 +2,9 @@
 
 The [[index#Players and Characters|party]] starts in a meeting room within the building of their hero agency. They have not met before. Here they are introduced to their first mission by [[Issha]], which is to find [[Miss Lucy]]'s 24 cats.
 
-After introducing themselves to each other, the party visits [[Miss Lucy's Home]] to find out more about the cats and the situation, and learns that Miss Lucy has been having trouble with her neighbour [[Fenny]], who lives [[Fenny's Home|across]] from her.
+After introducing themselves to each other, the party visits [[Miss Lucy's Home]] to find out more about the cats and the situation, and learns that Miss Lucy has been having trouble with her neighbor [[Fenny]], who lives [[Fenny's Home|across]] from her.
 
-[[Gal|Gal]] consumes mushroom tea, which is hallucinogenic. [[Miss Lucy]] and her neighbours are not able to provide any information or description of Fenny, who is not home. The party breaks in by having [[Nula]] Wild Shape as an owl and descend into the chimney to open the front door from inside.
+[[Gal|Gal]] consumes mushroom tea, which is hallucinogenic. [[Miss Lucy]] and her neighbors are not able to provide any information or description of Fenny, who is not home. The party breaks in by having [[Nula]] Wild Shape as an owl and descend into the chimney to open the front door from inside.
 
 The party does not find anything interesting other than a large amount of cat-like fur which does not belong to Miss Lucy's cats. [[Meldohr|Meldohr]] and [[Nula]] pull down the massive portrait of [[Beep Boop]] in the living room, revealing the entrance to a tunnel containing multiple tripwire traps. Within, the party can hear the purring and meowing of a "demon cat".
 
